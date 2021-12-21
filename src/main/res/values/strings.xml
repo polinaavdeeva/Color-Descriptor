@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button_find_description">Determine the color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Deep blue</item>
+        <item>Purple</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Grey</item>
+        <item>Pink</item>
+
+    </string-array>
+    <string-array name="description_of_temp">
+        <item>The color of active people. Not just active, but bright, desperate. It is from such people that heroes and revolutionaries are made. In front of us, most likely, is a born leader who is able to captivate with his ideas. A person who does not tolerate routine and stagnation.</item>
+        <item>Cheerful, easy-going and enterprising individuals choose him! They are always looking for new ways and believe that there are not so many hopeless situations. They infect everything with their optimism and enthusiasm. They often like hiking and campfire songs. They always know what to do with children and how to amuse adults. Originals and fidgets.</item>
+        <item>As a rule, a lover of yellow is a calm, balanced and optimistic person who knows his own worth. Accurately determines the goals and routes to them. He knows how to keep a clear head in the most difficult situation. They are often honest and morally strong people. They are not ready to sacrifice principles for the sake of short-term benefits. Patient and observant. They have an enviable willpower.</item>
+        <item>The color of peace and hope. It is chosen by people who strive for harmony, tranquility and justice, who do not think of themselves without constant development and moving forward. Lovers of green, most likely, will study all their lives, because they make high, if not excessive, demands on themselves.
+They often have remarkable patience and a sharp mind.</item>
+        <item>Impressionable and, most likely, very kind and sympathetic people. Not without a penchant for science and discovery. From the flow of various information, they are able to isolate the very essence. It seems that they are the ones who can fairly judge any most complicated dispute without causing offense to any of the parties. However, the tendency to soar in the clouds has not been canceled! There are a lot of desperate travelers and extreme people among the lovers of blue.</item>
+        <item>These people are as incomprehensible as the ocean itself. Character can become their main problem: you need to be able to control your emotions. They are punctual and prudent, appreciate prosperity and comfort. Much attention is paid to sensual pleasures. They can sit for hours in front of a waterfall, sea, fire and cherry blossoms and admire the picture. Often they themselves are seriously engaged in creativity. At the same time, they are often not too easy to lift.</item>
+        <item>Not supporters of making quick decisions. They need to think about everything properly, "sleep with an idea." They are not used to suffering a fiasco and therefore carefully prepare the ground for innovations. Therefore, they rarely lose.
+They look harsh, "purple" - funny people in the company, witty and groovy. They highly value freedom and independence.</item>
+        <item>Strict and mandatory. They like to impress others. Sexual and passionate natures.
+Before us are personalities with a certain theatricality in character, capable of charming and falling in love with themselves. However, as a rule, they have one enviable trait - the ability to say a firm no.</item>
+        <item>Fundamentally honest people. Most likely, for them to lie is to go against themselves. They readily respond to requests for help and support. At the same time, they strive for success and love public recognition. Dreamy and responsive.
+They are not afraid to shock the audience and, it seems, are even fueled by emotions from the effect produced. Like a fish, they need the admiration of others!</item>
+        <item>Reserved natures. They look at the world with rigor and realize its imperfection. However, these are not just bystanders. They strive to improve the situation for the better and often they manage to change the established order.
+Principled and serious personalities, reliable comrades. Not always, because of their conservatism, they understand humor and can seriously take offense at jokers.</item>
+        <item>The expression "grey cardinal" seems to have been coined about lovers of this color. Most likely, they have an animal sense and good intuition. They can count the interlocutor from the first moment. However, they will not give a sign. For by nature they are researchers and to some extent schemers who are very interested in how events will develop further. And if they get bored, they can also throw firewood into the fire of passions.
+They are diligent and diligent.</item>
+        <item>Disguise is, perhaps, the main definition of their character. Such people, for various reasons, are not very eager to show their true self. They prefer to hide the real ones from those around them and appear in a different image - more touching, tender. Make no mistake: the pink veil hides the steel rod.
+However, as a rule, these are impressionable persons. Unusual situations can knock them out of a rut for a long time. In most cases, they are kind and sympathetic people.</item>
+    </string-array>
+
+</resources>
